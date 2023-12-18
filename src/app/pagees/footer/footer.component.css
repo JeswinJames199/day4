@@ -1,0 +1,9 @@
+/* footer.component.css */
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+  }
+  

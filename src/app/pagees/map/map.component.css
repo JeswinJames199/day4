@@ -1,0 +1,16 @@
+.background-image {
+    background-image: url('../../../assets/img/set.jpg'); 
+    background-size: cover;
+    background-blend-mode: soft-light;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .map {
+    width: 450px;
+    position: relative;
+    background-image: url('../../../assets/img/map.jpg.png'); 
+    background-size: cover;
+    height: 100vh;
+  }
+  

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.bg-image {
+    background-image: url('../../../assets/img/mm.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+  }
+  .centered-text {
+    text-align: center;
+    color: rgb(83, 83, 83);
+  }
+  .centered-text {
+    font-family: 'Roboto', sans-serif;
+    
+  }
+  .centered-text h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+  }
+  
+  .centered-text p {
+    font-size: 1.2em;
+    margin-top: 0;
+  }

@@ -1,0 +1,49 @@
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .logo a {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: 0.3s ease;
+  }
+  
+  .nav-links li a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  body {
+    background-image:url(../../../assets/img/bg2.jpg);
+    background-blend-mode:soft-light;
+    background-repeat:repeat;
+    /*background-position: center center;*/
+    text-align: center;
+    background-size:cover;
+    background-attachment: scroll;
+    height: 100%;
+  }
